@@ -29,10 +29,3 @@ def get_dir_pass():
 def default_photo_path():
     return data['default_photo_path']
 
-
-print(get_token())
-print(get_dir_tmp())
-print(get_dir_dirs())
-print(get_users())
-print(get_dir_pass())
-
